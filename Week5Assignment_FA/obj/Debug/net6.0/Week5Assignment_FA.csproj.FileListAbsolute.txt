@@ -1,0 +1,15 @@
+D:\C#Projects\Week5Assignment_FA\bin\Debug\net6.0\Week5Assignment_FA.exe
+D:\C#Projects\Week5Assignment_FA\bin\Debug\net6.0\Week5Assignment_FA.deps.json
+D:\C#Projects\Week5Assignment_FA\bin\Debug\net6.0\Week5Assignment_FA.runtimeconfig.json
+D:\C#Projects\Week5Assignment_FA\bin\Debug\net6.0\Week5Assignment_FA.dll
+D:\C#Projects\Week5Assignment_FA\bin\Debug\net6.0\Week5Assignment_FA.pdb
+D:\C#Projects\Week5Assignment_FA\obj\Debug\net6.0\Week5Assignment_FA.csproj.AssemblyReference.cache
+D:\C#Projects\Week5Assignment_FA\obj\Debug\net6.0\Week5Assignment_FA.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\Week5Assignment_FA\obj\Debug\net6.0\Week5Assignment_FA.AssemblyInfoInputs.cache
+D:\C#Projects\Week5Assignment_FA\obj\Debug\net6.0\Week5Assignment_FA.AssemblyInfo.cs
+D:\C#Projects\Week5Assignment_FA\obj\Debug\net6.0\Week5Assignment_FA.csproj.CoreCompileInputs.cache
+D:\C#Projects\Week5Assignment_FA\obj\Debug\net6.0\Week5Assignment_FA.dll
+D:\C#Projects\Week5Assignment_FA\obj\Debug\net6.0\refint\Week5Assignment_FA.dll
+D:\C#Projects\Week5Assignment_FA\obj\Debug\net6.0\Week5Assignment_FA.pdb
+D:\C#Projects\Week5Assignment_FA\obj\Debug\net6.0\Week5Assignment_FA.genruntimeconfig.cache
+D:\C#Projects\Week5Assignment_FA\obj\Debug\net6.0\ref\Week5Assignment_FA.dll
